@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55d0aec4-f09b-48df-9705-094bfe05d0e5" name="Default" comment="" />
+    <list default="true" id="55d0aec4-f09b-48df-9705-094bfe05d0e5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/alg/TreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/alg/TreeDepth.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,8 +116,12 @@
       <file leaf-file-name="TreeDepth.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/alg/TreeDepth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="362">
+              <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+              <folding>
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,6 +144,9 @@
       <replace>BinarySearchNode</replace>
       <replace>getNumberOfK</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -204,6 +213,7 @@
     <option name="width" value="1440" />
     <option name="height" value="816" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -278,20 +288,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._38_NumberOfK">
+  <component name="RunManager" selected="Application._39_01_TreeDepth">
     <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="alg.MergeSort" />
-      <module name="coding-interviews-offer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="alg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="_35_FirstNotRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="alg._35_FirstNotRepeatingChar" />
       <module name="coding-interviews-offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -325,6 +324,17 @@
     </configuration>
     <configuration name="_38_NumberOfK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="alg._38_NumberOfK" />
+      <module name="coding-interviews-offer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="_39_01_TreeDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alg._39_01_TreeDepth" />
       <module name="coding-interviews-offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -376,19 +386,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application._35_FirstNotRepeatingChar" />
       <item itemvalue="Application._36_InversePairs" />
       <item itemvalue="Application.MergeSort" />
       <item itemvalue="Application._37_FirstCommonNodesInLists" />
       <item itemvalue="Application._38_NumberOfK" />
+      <item itemvalue="Application._39_01_TreeDepth" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._39_01_TreeDepth" />
         <item itemvalue="Application._38_NumberOfK" />
         <item itemvalue="Application._37_FirstCommonNodesInLists" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application._36_InversePairs" />
-        <item itemvalue="Application._35_FirstNotRepeatingChar" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +428,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.45353675" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32871014" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -929,8 +939,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/alg/TreeDepth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="362">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -962,7 +976,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
