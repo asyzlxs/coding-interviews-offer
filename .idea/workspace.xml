@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55d0aec4-f09b-48df-9705-094bfe05d0e5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/alg/TreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/alg/TreeDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_39_02_BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_40_NumbersAppearOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_41_01_TwoNumersWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_41_02_ContinuesSquenceWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_42_01_ReverseWordsInSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_42_LeftRotateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_43_DicesProbability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_44_ContinousCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_45_01_LastNumberInCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_45_02_LastNumberInCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_49_StringToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/alg/_50_GetLastCommonParent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/alg/_29_MoreThanHalfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/alg/_29_MoreThanHalfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/alg/TreeDepth$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/alg/TreeDepth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/alg/_29_MoreThanHalfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/alg/_29_MoreThanHalfNumber.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,112 +31,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_30_KLeastNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/alg/_30_KLeastNumbers.java">
+      <file leaf-file-name="_50_GetLastCommonParent.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/alg/_50_GetLastCommonParent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="90" column="42" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="42" />
+            <state relative-caret-position="134">
+              <caret line="95" column="25" lean-forward="true" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_31_GreatestSumOfSubarrays.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/alg/_31_GreatestSumOfSubarrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_33_SortArrayForMinNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/alg/_33_SortArrayForMinNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_34_UglyNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/alg/_34_UglyNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_35_FirstNotRepeatingChar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/alg/_35_FirstNotRepeatingChar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#294#314#0" expanded="true" />
-                <element signature="e#715#716#0" expanded="true" />
-                <element signature="e#751#752#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/alg/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_37_FirstCommonNodesInLists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/alg/_37_FirstCommonNodesInLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="62" column="41" lean-forward="true" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
-              <folding>
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_38_NumberOfK.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/alg/_38_NumberOfK.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-186">
-              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_24_FindPath.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/alg/_24_FindPath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeDepth.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/alg/TreeDepth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-              <folding>
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,10 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/alg/_03_FindInPartiallySortedMatrix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/alg/_04_ReplaceBlank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/alg/_05_PrintListInReversedOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/alg/_06_ConStuctBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/alg/_06_ConstructBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/alg/_07_QueryWithTwoStacks.java" />
@@ -187,7 +101,6 @@
         <option value="$PROJECT_DIR$/src/main/java/alg/_27_ConvertBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/alg/_28_StringPermutation.java" />
         <option value="$PROJECT_DIR$/src/main/java/alg/_30_MoreThanHalfNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/alg/_29_MoreThanHalfNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/alg/_30_KLeastNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/alg/_31_GreatestSumOfSubarrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/alg/_33_SortArrayForMinNumber.java" />
@@ -198,6 +111,22 @@
         <option value="$PROJECT_DIR$/src/main/java/alg/_37_FirstCommonNodesInLists.java" />
         <option value="$PROJECT_DIR$/src/main/java/alg/_38_NumberOfK.java" />
         <option value="$PROJECT_DIR$/src/main/java/alg/TreeDepth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_39_TreeDepth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_39_01_TreeDepth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_39_02_BalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_40_NumbersAppearOnce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_41_01_TwoNumersWithSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_41_02_ContinuesSquenceWithSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_42_01_ReverseWordsInSentence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_42_LeftRotateString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_43_DicesProbability.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_29_MoreThanHalfNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_44_ContinousCards.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_45_LastNumberInCircle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_45_01_LastNumberInCircle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_45_02_LastNumberInCircle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_49_StringToInt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/alg/_50_GetLastCommonParent.java" />
       </list>
     </option>
   </component>
@@ -208,10 +137,10 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="816" />
+    <option name="height" value="819" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -220,6 +149,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -266,7 +196,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,9 +217,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._39_01_TreeDepth">
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="alg.MergeSort" />
+  <component name="RunManager" selected="Application._50_GetLastCommonParent">
+    <configuration name="_44_ContinousCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alg._44_ContinousCards" />
       <module name="coding-interviews-offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -300,8 +229,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="_36_InversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="alg._36_InversePairs" />
+    <configuration name="_45_01_LastNumberInCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alg._45_01_LastNumberInCircle" />
       <module name="coding-interviews-offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -311,8 +240,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="_37_FirstCommonNodesInLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="alg._37_FirstCommonNodesInLists" />
+    <configuration name="_45_02_LastNumberInCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alg._45_02_LastNumberInCircle" />
       <module name="coding-interviews-offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -322,8 +251,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="_38_NumberOfK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="alg._38_NumberOfK" />
+    <configuration name="_49_StringToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alg._49_StringToInt" />
       <module name="coding-interviews-offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -333,8 +262,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="_39_01_TreeDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="alg._39_01_TreeDepth" />
+    <configuration name="_50_GetLastCommonParent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alg._50_GetLastCommonParent" />
       <module name="coding-interviews-offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -386,19 +315,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application._36_InversePairs" />
-      <item itemvalue="Application.MergeSort" />
-      <item itemvalue="Application._37_FirstCommonNodesInLists" />
-      <item itemvalue="Application._38_NumberOfK" />
-      <item itemvalue="Application._39_01_TreeDepth" />
+      <item itemvalue="Application._44_ContinousCards" />
+      <item itemvalue="Application._45_01_LastNumberInCircle" />
+      <item itemvalue="Application._45_02_LastNumberInCircle" />
+      <item itemvalue="Application._49_StringToInt" />
+      <item itemvalue="Application._50_GetLastCommonParent" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._39_01_TreeDepth" />
-        <item itemvalue="Application._38_NumberOfK" />
-        <item itemvalue="Application._37_FirstCommonNodesInLists" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application._36_InversePairs" />
+        <item itemvalue="Application._50_GetLastCommonParent" />
+        <item itemvalue="Application._49_StringToInt" />
+        <item itemvalue="Application._45_02_LastNumberInCircle" />
+        <item itemvalue="Application._45_01_LastNumberInCircle" />
+        <item itemvalue="Application._44_ContinousCards" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +345,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="816" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="819" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -427,24 +356,24 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45353675" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45165744" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32871014" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39805827" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39779004" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -471,123 +400,29 @@
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/alg/_43_DicesProbability.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/alg/_43_DicesProbability.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/alg/_43_DicesProbability.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="23" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/Power.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_12_Print1ToMaxOfNDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_13_DeleteNodeInList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_14_ReorderArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_15_KthNodeFromEnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_16_ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_17_MergeSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_18_SubstructureTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="58" column="53" lean-forward="true" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
-          <folding>
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/other/MergeList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_19_MirrorOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_03_FindInPartiallySortedMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -674,10 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1392">
           <caret line="58" column="53" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
-          <folding>
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,10 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-328">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -828,62 +655,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_29_MoreThanHalfNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1992">
-          <caret line="83" column="37" selection-start-line="83" selection-start-column="37" selection-end-line="83" selection-end-column="37" />
-          <folding>
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/alg/_21_MinInStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_36_InversePairs.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_24_FindPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="63" column="54" selection-start-line="63" selection-start-column="54" selection-end-line="63" selection-end-column="54" />
+        <state relative-caret-position="631">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/alg/_35_FirstNotRepeatingChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
+        <state relative-caret-position="362">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_39_01_TreeDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
           <folding>
-            <element signature="e#294#314#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_33_SortArrayForMinNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_34_UglyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/alg/_31_GreatestSumOfSubarrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
+        <state relative-caret-position="888">
           <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
         </state>
       </provider>
@@ -898,23 +711,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_34_UglyNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_41_02_ContinuesSquenceWithSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        <state relative-caret-position="432">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_41_01_TwoNumersWithSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="360">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_40_NumbersAppearOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/alg/_37_FirstCommonNodesInLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="1004">
           <caret line="62" column="41" lean-forward="true" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
           <folding>
             <element signature="e#206#207#0" expanded="true" />
@@ -923,27 +743,117 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_36_InversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="63" column="54" selection-start-line="63" selection-start-column="54" selection-end-line="63" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_33_SortArrayForMinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="21" column="25" selection-start-line="19" selection-start-column="8" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_39_02_BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/alg/_38_NumberOfK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="192">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_24_FindPath.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_42_01_ReverseWordsInSentence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="528">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/alg/TreeDepth.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        <state relative-caret-position="1128">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_29_MoreThanHalfNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2064">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_43_DicesProbability.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_44_ContinousCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="68" column="40" lean-forward="true" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_45_01_LastNumberInCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
           <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_45_02_LastNumberInCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_49_StringToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_42_LeftRotateString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/alg/_50_GetLastCommonParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="95" column="25" lean-forward="true" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -976,7 +886,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

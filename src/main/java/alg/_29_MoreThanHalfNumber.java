@@ -85,6 +85,8 @@ public class _29_MoreThanHalfNumber {
         int[] half = {1, 2, 3, 2, 2, 2, 5, 4, 2};
         System.out.println(moreThanHalfNumber(half));
         System.out.println(moreThanHalfNumber_1(half));
+
+
     }
 
 }
